@@ -1,0 +1,1 @@
+# Sum-of-Square-of-Elements-of-Array-And-Average
